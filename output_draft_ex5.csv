@@ -1,0 +1,253 @@
+,Journal_area_research,Number_authors
+0,Accounting,4
+1,Acoustics and Ultrasonics,49
+2,Advanced and Specialized Nursing,6
+3,Aerospace Engineering,161
+4,Aging,4
+5,Agricultural and Biological Sciences  (miscellaneous),67
+6,Agronomy and Crop Science,70
+7,Algebra and Number Theory,73
+8,Analysis,76
+9,Analytical Chemistry,324
+10,Anatomy,4
+11,Anesthesiology and Pain Medicine,5
+12,Animal Science and Zoology,11
+13,Anthropology,15
+14,Applied Mathematics,397
+15,Applied Microbiology and Biotechnology,20
+16,Applied Psychology,8
+17,Aquatic Science,67
+18,Archeology,10
+19,Archeology (arts and humanities),1
+20,Architecture,176
+21,Artificial Intelligence,160
+22,Arts and Humanities  (miscellaneous),11
+23,Astronomy and Astrophysics,15
+24,Atmospheric Science,114
+25,"Atomic and Molecular Physics, and Optics",189
+26,Automotive Engineering,35
+27,Behavioral Neuroscience,4
+28,Biochemistry,102
+29,Biochemistry (medical),8
+30,"Biochemistry, Genetics and Molecular Biology  (miscellaneous)",71
+31,Bioengineering,120
+32,Biological Psychiatry,1
+33,Biomaterials,77
+34,Biomedical Engineering,141
+35,Biophysics,60
+36,Biotechnology,33
+37,Building and Construction,279
+38,Business and International Management,15
+39,"Business, Management and Accounting  (miscellaneous)",54
+40,Cancer Research,6
+41,Cardiology and Cardiovascular Medicine,25
+42,Catalysis,36
+43,Cell Biology,14
+44,Cellular and Molecular Neuroscience,22
+45,Ceramics and Composites,140
+46,Chemical Engineering  (miscellaneous),310
+47,Chemistry  (miscellaneous),175
+48,Civil and Structural Engineering,207
+49,Clinical Biochemistry,18
+50,Clinical Psychology,5
+51,Cognitive Neuroscience,12
+52,Communication,17
+53,Complementary and Alternative Medicine,1
+54,Computational Mathematics,34
+55,Computational Mechanics,104
+56,Computational Theory and Mathematics,29
+57,Computer Graphics and Computer-Aided Design,36
+58,Computer Networks and Communications,170
+59,Computer Science  (miscellaneous),448
+60,Computer Science Applications,305
+61,Computers in Earth Sciences,33
+62,Condensed Matter Physics,350
+63,Conservation,2
+64,Control and Optimization,7
+65,Control and Systems Engineering,108
+66,Critical Care and Intensive Care Medicine,12
+67,Cultural Studies,28
+68,Decision Sciences  (miscellaneous),16
+69,Demography,2
+70,Dentistry  (miscellaneous),8
+71,Dermatology,1
+72,Development,7
+73,Developmental Biology,2
+74,Developmental and Educational Psychology,4
+75,Discrete Mathematics and Combinatorics,12
+76,Drug Discovery,17
+77,E-learning,2
+78,Earth and Planetary Sciences  (miscellaneous),201
+79,Earth-Surface Processes,45
+80,Ecological Modeling,3
+81,Ecology,32
+82,"Ecology, Evolution, Behavior and Systematics",17
+83,Economic Geology,6
+84,Economics and Econometrics,75
+85,"Economics, Econometrics and Finance  (miscellaneous)",24
+86,Education,149
+87,Electrical and Electronic Engineering,465
+88,Electrochemistry,7
+89,"Electronic, Optical and Magnetic Materials",76
+90,Embryology,1
+91,Endocrine and Autonomic Systems,3
+92,Endocrinology,1
+93,"Endocrinology, Diabetes and Metabolism",6
+94,Energy  (miscellaneous),53
+95,Energy Engineering and Power Technology,65
+96,Engineering  (miscellaneous),520
+97,Environmental Chemistry,137
+98,Environmental Engineering,143
+99,Environmental Science  (miscellaneous),171
+100,Epidemiology,13
+101,Experimental and Cognitive Psychology,14
+102,Family Practice,7
+103,Filtration and Separation,2
+104,Finance,3
+105,Fluid Flow and Transfer Processes,32
+106,Food Science,39
+107,Forestry,17
+108,Fuel Technology,1
+109,Gastroenterology,5
+110,Gender Studies,1
+111,Genetics,14
+112,Geochemistry and Petrology,39
+113,"Geography, Planning and Development",204
+114,Geology,78
+115,Geometry and Topology,20
+116,Geophysics,33
+117,Geotechnical Engineering and Engineering Geology,47
+118,Geriatrics and Gerontology,4
+119,Global and Planetary Change,11
+120,Hardware and Architecture,107
+121,Health (Social Science),2
+122,Health Informatics,43
+123,Health Information Management,2
+124,Health Policy,5
+125,"Health, Toxicology and Mutagenesis",80
+126,Hematology,7
+127,Hepatology,3
+128,Histology,1
+129,History,19
+130,History and Philosophy of Science,14
+131,Horticulture,14
+132,Human Factors and Ergonomics,3
+133,Human-Computer Interaction,12
+134,Immunology,6
+135,Immunology and Allergy,3
+136,Immunology and Microbiology  (miscellaneous),2
+137,Industrial Relations,1
+138,Industrial and Manufacturing Engineering,128
+139,Infectious Diseases,15
+140,Information Systems,47
+141,Information Systems and Management,41
+142,Inorganic Chemistry,50
+143,Insect Science,1
+144,Instrumentation,69
+145,Law,33
+146,Library and Information Sciences,18
+147,Linguistics and Language,28
+148,Literature and Literary Theory,4
+149,Logic,2
+150,Management Information Systems,18
+151,Management Science and Operations Research,35
+152,Management of Technology and Innovation,12
+153,"Management, Monitoring, Policy and Law",13
+154,Marketing,4
+155,Materials Chemistry,145
+156,Materials Science (miscellaneous),267
+157,Mathematical Physics,17
+158,Mathematics  (miscellaneous),103
+159,Mechanical Engineering,171
+160,Mechanics of Materials,10
+161,Media Technology,26
+162,Medical Laboratory Technology,3
+163,Medicine  (miscellaneous),176
+164,Metals and Alloys,96
+165,Microbiology,18
+166,Microbiology (medical),2
+167,Modeling and Simulation,18
+168,Molecular Biology,1
+169,Molecular Medicine,4
+170,Multidisciplinary,239
+171,Nanoscience and Nanotechnology,8
+172,Nature and Landscape Conservation,1
+173,Neurology,22
+174,Neurology (clinical),27
+175,Neuropsychology and Physiological Psychology,6
+176,Neuroscience  (miscellaneous),22
+177,Nuclear Energy and Engineering,17
+178,Nuclear and High Energy Physics,19
+179,Numerical Analysis,7
+180,Nursing  (miscellaneous),2
+181,Nutrition and Dietetics,6
+182,Obstetrics and Gynecology,5
+183,Ocean Engineering,71
+184,Oceanography,23
+185,Oncology,10
+186,Ophthalmology,36
+187,Optometry,20
+188,Oral Surgery,5
+189,Organic Chemistry,44
+190,Organizational Behavior and Human Resource Management,4
+191,Orthopedics and Sports Medicine,18
+192,Otorhinolaryngology,3
+193,Paleontology,2
+194,Parasitology,1
+195,Pathology and Forensic Medicine,5
+196,"Pediatrics, Perinatology and Child Health",11
+197,Pharmaceutical Science,53
+198,Pharmacology,12
+199,"Pharmacology, Toxicology and Pharmaceutics  (miscellaneous)",5
+200,Philosophy,5
+201,"Physical Therapy, Sports Therapy and Rehabilitation",11
+202,Physical and Theoretical Chemistry,44
+203,Physics and Astronomy (miscellaneous),130
+204,Physiology,27
+205,Plant Science,13
+206,Pollution,71
+207,Polymers and Plastics,199
+208,Process Chemistry and Technology,84
+209,Psychiatry and Mental Health,25
+210,Psychology  (miscellaneous),22
+211,Public Administration,3
+212,"Public Health, Environmental and Occupational Health",77
+213,Pulmonary and Respiratory Medicine,9
+214,Radiation,44
+215,Radiological and Ultrasound Technology,12
+216,"Radiology, Nuclear Medicine and Imaging",59
+217,Rehabilitation,25
+218,"Renewable Energy, Sustainability and the Environment",231
+219,Rheumatology,5
+220,Safety Research,8
+221,"Safety, Risk, Reliability and Quality",164
+222,Sensory Systems,6
+223,Signal Processing,254
+224,Social Psychology,15
+225,Social Sciences (miscellaneous),32
+226,Sociology and Political Science,25
+227,Software,411
+228,Soil Science,79
+229,Space and Planetary Science,121
+230,Spectroscopy,87
+231,Sports Science,11
+232,Statistical and Nonlinear Physics,64
+233,Statistics and Probability,148
+234,"Statistics, Probability and Uncertainty",16
+235,Strategy and Management,74
+236,Stratigraphy,10
+237,Structural Biology,35
+238,Surfaces and Interfaces,71
+239,"Surfaces, Coatings and Films",130
+240,Surgery,10
+241,Theoretical Computer Science,251
+242,"Tourism, Leisure and Hospitality Management",5
+243,Toxicology,3
+244,Transplantation,2
+245,Transportation,52
+246,Urban Studies,70
+247,Veterinary  (miscellaneous),6
+248,Virology,2
+249,Visual Arts and Performing Arts,100
+250,Waste Management and Disposal,43
+251,Water Science and Technology,193
